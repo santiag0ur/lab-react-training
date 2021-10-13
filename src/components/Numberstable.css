@@ -1,0 +1,23 @@
+.even {
+  display: inline-block;
+  background-color: red;
+  font-size: xx-large;
+  width: 50px;
+  height: 50px;
+  border-style: solid;
+}
+
+.odd {
+  display: inline-block;
+  background-color: white;
+  font-size: xx-large;
+  width: 50px;
+  height: 50px;
+  border-style: solid;
+}
+
+.theTable {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}

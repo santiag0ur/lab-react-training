@@ -1,0 +1,33 @@
+body {
+  background-color: wheat;
+}
+
+.CardId {
+  color: black;
+  border-color: black;
+  border: 2px;
+  padding: auto;
+  border-style: solid;
+  margin: 3px;
+  padding: 3px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: auto;
+  line-height: 5px;
+  text-align: left;
+}
+
+.CardId div {
+  margin: 3px;
+}
+
+.Blocktext {
+  align-self: flex-start;
+  margin-inline: 0px;
+  padding-inline: 0px;
+  margin: 0px;
+  padding: 0px;
+  position: relative;
+  top: -12px;
+}

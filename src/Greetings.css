@@ -1,0 +1,19 @@
+.MessageGreeting {
+  color: black;
+  border-color: black;
+  border: 2px;
+  padding: auto;
+  border-style: solid;
+  margin: 3px;
+  padding: 3px;
+  height: auto;
+  text-align: left;
+}
+
+.TextFromInside {
+  align-self: flex-start;
+  margin-inline: 0px;
+  padding-inline: 0px;
+  margin: 0px;
+  padding: 0px;
+}

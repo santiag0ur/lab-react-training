@@ -1,0 +1,52 @@
+.Card {
+  height: 8em;
+  width: 16em;
+  border-radius: 0.5em;
+  padding: 0.5em;
+}
+
+.Card div {
+  height: 2.6em;
+  margin: 0px;
+  padding: 0px;
+}
+
+.Card div p {
+  font-size: 0.6em;
+  margin: 0px;
+  padding: 0px;
+  text-align: left;
+}
+
+.Card img {
+  width: 3.5em;
+  height: 1.3em;
+  margin: 0px;
+  padding: 0px;
+}
+
+.DivLogoCard {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: right;
+}
+
+.DivCardNumber {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  font-size: 1.4em;
+}
+
+.DivCardName {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  text-align: left;
+}
+
+.Dots {
+  font-size: 2em;
+}
