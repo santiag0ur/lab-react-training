@@ -1,6 +1,6 @@
 import './CreditCard.css';
 import logovisa from './visa.png';
-import logomaster from './mastercard-logo.png';
+import logomaster from './imgsrc/master-card.svg';
 
 const CreditCard = (props) => {
   let cardlogo = '';
